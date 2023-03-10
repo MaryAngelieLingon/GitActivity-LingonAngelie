@@ -1,0 +1,5 @@
+print ("Mary Angelie Lingon")
+print ("Caganhao,Boac,Marinduque")
+print ("March 4, 2002")
+print ("Marinduque State College")
+print ("Bachelor of Science in Information Technology - 2B")
